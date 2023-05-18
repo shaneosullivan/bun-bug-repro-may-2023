@@ -12,3 +12,5 @@ using Node 18. You should see the error
 ```
 Segmentation fault: 11
 ```
+
+The code for the reproduction is in the `scripts/build-browser.js` file
